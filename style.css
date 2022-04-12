@@ -4,14 +4,16 @@
     box-sizing: border-box;
 }
 
-header{
-    background-color: #3161E0;
-}
+
 .container {
     width: 100%;
     max-width: 960px;;
     min-width: 300px;
     margin: 0 auto;
+}
+
+header{
+    background-color: #3161E0;
 }
 
 header .container {
@@ -70,14 +72,14 @@ header .col {
 }
 
 .bg-grey{
-    background: #D3D3D3;
+    background: #F6F6F6;
 }
 
 .bg-jumbotron{
     background-color: #3161E0;
     background-image: url(../htmlcss-discord/img/jumbo.png);
     background-size: cover;
-    min-height: 370px;
+    height: 370px;
 }
 
 .d-flex{
@@ -91,13 +93,14 @@ header .col {
     
     
 }
-col .col-large{
-    align-items: baseline;
-}
 
 .col-large{
     background-color: #3161E0;
     flex-grow: 3;
+}
+
+.col-small{
+    background-color: white;
 }
 
 header .col{
