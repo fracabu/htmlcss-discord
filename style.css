@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: #3161E0;
+}
 .container {
     width: 100%;
     max-width: 960px;;
@@ -13,6 +17,7 @@
 header .container {
     padding: 0;
     border: 0;
+    
 }
 
 header .menu-list {
@@ -37,11 +42,6 @@ header .menu-list li a {
     padding: 0.5rem 1rem;
     display: inline-block;
     text-decoration: none;
-}
-
-header .container {
-    padding: 0;
-    border: 0;
 }
 
 header .col {
@@ -87,6 +87,7 @@ header .col {
     padding: 3rem 1rem;
     flex-grow: 1;
     min-height: 60px;
+    
     
 }
 col .col-large{
