@@ -22,13 +22,21 @@ header .menu-list {
 
 header .menu-list li {
     list-style: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    text-decoration: none;
 
 }
 
 header .menu-list li a {
-    /* color: white; */
+
     padding: 0.5rem 1rem;
     display: inline-block;
+    color: white;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    text-decoration: none;
 }
 
 header .container {
