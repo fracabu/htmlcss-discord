@@ -69,7 +69,8 @@ header .col {
 }
 
 .section{
-    padding: 4rem 0; 
+    padding: 4rem 0;
+     
 }
 
 .bg-grey{
@@ -96,7 +97,7 @@ header .col {
 }
 
 .col-large{
-    background-color: #3161E0;
+    background-color: white;
     flex-grow: 3;
 }
 
@@ -109,12 +110,23 @@ header .col{
     padding-bottom: 0;
 }
 
+header .col-large{
+    background-color: #3161E0; 
+}
+
 
 .bg-black{
     background: #4F4F4F;
 }
 
+.section2{
+    background-color: #F6F6F6;
+}
 
+.col-small2{
+    background-color: #F6F6F6;
+}
 
-
-
+.col-large2{
+    background-color: #F6F6F6; 
+}
