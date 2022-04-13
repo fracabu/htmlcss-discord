@@ -43,7 +43,6 @@ header .menu-list li a {
     display: inline-block;
     color: white;
     padding: 0.5rem 1rem;
-    display: inline-block;
     text-decoration: none;
 }
 
@@ -129,4 +128,16 @@ header .col-large{
 
 .col-large2{
     background-color: #F6F6F6; 
+}
+
+.col-large3{
+    flex-grow: 2;
+    background-color: #4F4F4F;
+    color: purple;
+}
+
+.lista-footer{
+    text-decoration: none;
+
+
 }
