@@ -153,3 +153,13 @@ header .col-large{
     background: white;
 
 }
+
+.titolo-jumbo{
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+.logo{
+   justify-content: baseline;
+}
