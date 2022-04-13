@@ -69,7 +69,7 @@ header .col {
 
 .section{
     padding: 4rem 0;
-     
+
 }
 
 .bg-grey{
@@ -133,11 +133,23 @@ header .col-large{
 .col-large3{
     flex-grow: 2;
     background-color: #4F4F4F;
-    color: purple;
+    color: #7289DA;
 }
 
 .lista-footer{
-    text-decoration: none;
+    list-style: none;
 
+
+}
+
+.square-green{
+    margin: auto;
+    text-align: center;
+}
+
+.wave-1hkxOo{
+   color: #F6F6F6;
+   padding: 0;
+   background: white;
 
 }
