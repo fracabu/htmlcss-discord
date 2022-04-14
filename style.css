@@ -160,6 +160,23 @@ header .col-large{
     text-align: center;
 }
 
-.logo{
-   justify-content: baseline;
+
+.titolo-sezione4{
+    font-size: 40px;
+    
+}
+.paragrafo-jumbo{
+    font-size: 16px;
+    color: white;
+    padding-top: 2rem;
+    max-width: 781px;
+    text-align: center;
+    padding-left: 186px;
+}
+
+.wave-1hkxOo-special{
+    color: #F6F6F6;
+    padding: 0;
+    background: white;
+    transform: rotate(180deg);
 }
