@@ -6,6 +6,11 @@
     
 }
 
+h1{
+    font-weight: bold;
+}
+
+
 .container {
     width: 100%;
     max-width: 960px;;
