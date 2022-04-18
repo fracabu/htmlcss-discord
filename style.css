@@ -56,6 +56,19 @@ header .col {
     padding-bottom: 0.4rem;
 }
 
+.paragrafo1{
+    padding-top: 20px;
+}
+
+.titolo-finale{
+    text-align: center;
+
+}
+
+.stelle{
+    padding-left: 370px;
+}
+
 .btn-small {
     font-size: 0.8rem;
     padding: 0.4rem 1rem;
@@ -106,7 +119,7 @@ header .col {
 }
 
 .col-small{
-    background-color: white;
+    background-color: white ;
 }
 
 header .col{
@@ -143,6 +156,7 @@ header .col-large{
 
 .lista-footer{
     list-style: none;
+    background-color: #4F4F4F;
 
 
 }
@@ -185,3 +199,37 @@ header .col-large{
     background: white;
     transform: rotate(180deg);
 }
+
+.col-small-footer{
+ background-color: #4F4F4F;   
+}
+
+.btn {
+    font-size: 1rem;
+    padding: 0.6rem 1.3rem;
+    border-radius: 30px;
+    border-width: 0;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+  }
+  .btn-white:hover {
+    background-color: rgb(215, 212, 229);
+  }
+
+  .btn-black {
+    background-color: black;
+    color: white;
+  }
+  .btn-black:hover {
+    background-color: rgb(33, 32, 35);
+  }
+
+  .container-btn{
+    text-align: center;
+    padding-top: 20px;
+  }
